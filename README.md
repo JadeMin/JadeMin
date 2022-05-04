@@ -21,7 +21,7 @@
 	<a href="https://discord.com/invite/wMXXEjvm/" target="_blank">
 		<img src="https://img.shields.io/badge/discord-%2324292e.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="discord" style="margin-bottom: 5px;"/>
 	</a>
-	<font size="8px">or KlartNET#1234</font>
+	<font size="8px">or KlartNET#1234 if expired</font>
 	<!--br/>
 	<a href="discord://discord.com/users/840594543291269120/">Or open it on Discord desktop</a-->
 </div>
