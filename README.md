@@ -18,7 +18,7 @@
 		<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;"/>
 	</a>
 	<br/>
-	<a href="https://discord.com/users/840594543291269120/" target="_blank">
+	<a href="https://discord.com/invite/wMXXEjvm/" target="_blank">
 		<img src="https://img.shields.io/badge/discord-%2324292e.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="discord" style="margin-bottom: 5px;"/>
 	</a>
 	<font size="8px">or KlartNET#1234</font>
