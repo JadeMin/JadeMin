@@ -43,13 +43,16 @@
   
 ## <div align="center">📌 Pinned Repositories</div>
 <div align="center">  
-	<a href="https://github.com/JadeMin/BetterDiscordPlugins/" target="_blank">
+	<a href="https://github.com/JadeMin/BetterDiscordPlugins/">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=BetterDiscordPlugins&theme=dark"/>
 	</a>
-	<a href="https://github.com/JadeMin-PowercordPlugins/NitroBypass/" target="_blank">
+	<a href="https://github.com/JadeMin-PowercordPlugins/NitroBypass/">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin-PowercordPlugins&repo=NitroBypass&theme=dark"/>
 	</a>
-	<a href="https://github.com/JadeMin/UserScripts/" target="_blank">
+	<a href="https://github.com/JadeMin/UserScripts/">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=UserScripts&theme=dark"/>
+	</a>
+	<a href="https://github.com/JadeMin/aternos-afkbot/">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=aternos-afkbot&theme=dark"/>
 	</a>
 </div>
