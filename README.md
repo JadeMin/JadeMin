@@ -1,4 +1,5 @@
 <div class="header-mini">
+	<img src="https://hit.yhype.me/github/profile?user_id=36400787"/>
 	<img src="https://komarev.com/ghpvc/?username=JadeMin&style=flat" align="right"/>
 </div>
 <h1 align="center">Hi! I’m JadeMin, a hobbyist full-stack developer. 👨‍💻</h1>  
