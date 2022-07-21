@@ -1,12 +1,6 @@
-<!--img src="" align="left" style="width: 100%"/>  
-  
-
-<div align="right">
+<div class="header-mini">
 	<img src="https://komarev.com/ghpvc/?username=JadeMin&&style=flat-square/" align="right"/>
-</div>  
-  
-  
--->
+</div>
 <h1 align="center">Hi! I’m JadeMin, a hobbyist full-stack developer. 👨‍💻</h1>  
   
 
@@ -32,10 +26,10 @@
 - 🌱 I’m currently learning TypeScript, Golang, Flutter & Dart and Java.
 
 
-## <div align="center" id="github-stats">📖 Github Stats</div>
+## <div align="center">📖 Github Stats</div>
 <div align="center">
 	<a href="#github-stats">
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=JadeMin&_locale=kr&show_icons=true&count_private=true&hide=stars,issues,contribs&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+		<img id="github-stats" align="center" src="https://github-readme-stats.vercel.app/api?username=JadeMin&_locale=kr&show_icons=true&count_private=true&hide=stars,issues,contribs&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 		<!--img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadeMin&_layout=compact&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/-->
 	</a>
 </div>  
