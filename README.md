@@ -1,5 +1,4 @@
-<div class="header-mini">
-	<img src="https://hit.yhype.me/github/profile?user_id=36400787"/>
+<div class="header">
 	<img src="https://komarev.com/ghpvc/?username=JadeMin&style=flat" align="right"/>
 </div>
 <h1 align="center">Hi! I’m JadeMin, a hobbyist full-stack developer. 👨‍💻</h1>  
@@ -51,3 +50,6 @@
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=aternos-afkbot&theme=dark"/>
 	</a>
 </div>
+
+
+![](https://hit.yhype.me/github/profile?user_id=36400787)
