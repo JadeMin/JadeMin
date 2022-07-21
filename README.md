@@ -1,5 +1,5 @@
 <div class="header-mini">
-	<img src="https://komarev.com/ghpvc/?username=JadeMin&&style=flat-square/" align="right"/>
+	<img src="https://komarev.com/ghpvc/?username=JadeMin&style=flat" align="right"/>
 </div>
 <h1 align="center">Hi! I’m JadeMin, a hobbyist full-stack developer. 👨‍💻</h1>  
   
