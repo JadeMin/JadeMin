@@ -13,11 +13,10 @@
 </div>
 <br/>
 
-<!-- 🔭 I’m currently working in the plugins & themes development for [BetterDiscord](https://betterdiscord.app/), [Powercord](https://powercord.dev/) and other modified Discord clients.  -->
 - 🔭 A hobbyist developer who write codes that sometimes or not works.
-- 🌱 I’m currently learning TypeScript, Java, Dart + Flutter, C and C++.
+- 🌱 I’m currently learning `TypeScript`, `Java`, `GoLang`, `C(++)`, `Rust`, `Dart + Flutter`.
 - 🛠 I like to mod something, create some useless libraries or programs, and etc.
-- 🤓 I seek extensibility and very strict my own regularity and when programming.  
+- 🤓 I seek extensibility and very strict my own regularity and when programming.
 
 
 ## <div align="center">📖 Github Stats</div>
