@@ -36,11 +36,8 @@
 	<a href="https://github.com/JadeMin/MCods/">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=MCods&theme=dark"/>
 	</a>
-	<a href="https://github.com/KlartNET-io/subooru/">
+	<!--a href="https://github.com/KlartNET-io/subooru/">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=KlartNET-io&repo=subooru&theme=dark"/>
-	</a>
-	<!--a href="https://github.com/JadeMin/workers-discordbot/">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=cloudflare-discordbot&theme=dark"/>
 	</a-->
 	<a href="https://github.com/JadeMin/BetterDiscordPlugins/">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=BetterDiscordPlugins&theme=dark"/>
