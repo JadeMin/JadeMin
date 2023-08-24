@@ -13,7 +13,7 @@
 </div>
 <br/>
 
-- 🔭 A hobbyist developer who write codes that works sometimes or not.
+- 🔭 A hobbyist developer who write codes that working sometimes or not.
 - 🌱 I’m currently learning `TypeScript`, `Java`, `Go`, `C(++)`, `Rust`, and `Dart`.
 - 🛠 I like to mod something, create some useless libraries or softwares, and etc.
 - 🤓 I seek extensibility and very strict my own regularity when programming.
