@@ -45,6 +45,12 @@
 	<!--a href="https://github.com/JadeMin-BetterDiscord/NitroBypass">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin-BetterDiscord&repo=NitroBypass&show_owner=false&theme=dark">
 	</a-->
+	<a href="https://github.com/JadeMin/battletrident-datapack/">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=battletrident-datapack&theme=dark"/>
+	</a>
+	<a href="https://github.com/JadeMin/battletrident/">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=battletrident&theme=dark"/>
+	</a>
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=36400787)
