@@ -39,17 +39,17 @@
 	<!--a href="https://github.com/KlartNET-io/subooru/">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=KlartNET-io&repo=subooru&theme=dark"/>
 	</a-->
-	<a href="https://github.com/JadeMin/BetterDiscordPlugins/">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=BetterDiscordPlugins&theme=dark"/>
-	</a>
 	<!--a href="https://github.com/JadeMin-BetterDiscord/NitroBypass">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin-BetterDiscord&repo=NitroBypass&show_owner=false&theme=dark">
 	</a-->
+	<a href="https://github.com/JadeMin/battletrident/">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=battletrident&theme=dark"/>
+	</a>
 	<a href="https://github.com/JadeMin/battletrident-datapack/">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=battletrident-datapack&theme=dark"/>
 	</a>
-	<a href="https://github.com/JadeMin/battletrident/">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=battletrident&theme=dark"/>
+	<a href="https://github.com/JadeMin/BetterDiscordPlugins/">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=BetterDiscordPlugins&theme=dark"/>
 	</a>
 </div>
 
