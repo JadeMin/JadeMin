@@ -10,7 +10,7 @@
 - 🔭 A hobbyist developer who write codes that working sometimes or not.
 - 🌱 I’m currently learning `TypeScript`, `Java`, `Go`, `C(++)`, `Rust`, and `Dart`.
 - 🛠 I like to mod something, create some useless libraries or softwares, and etc.
-- 🤓 I seek my own very strict regularity, and scalability for my important projects.
+- 🤓 I seek very strict regularity, and scalability for my important projects.
 
 
 <h2 align="center">📖 Github Stats</h2>
