@@ -22,14 +22,14 @@
 	</div>
 	<div>
 		<a href="#github-stats">
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadeMin&layout=pie&langs_count=6&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
-		</a>
-	</div>
-	<div>
-		<a href="#github-stats">
 			<img src="https://github-readme-stats.vercel.app/api/wakatime?username=JadeMin&hide_border=true&title_color=fff&text_color=fff&bg_color=30,e96443,904e95"/>
 		</a>
 	</div>
+	<!--div>
+		<a href="#github-stats">
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadeMin&layout=pie&langs_count=6&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+		</a>
+	</div-->
 </div>
 
 
