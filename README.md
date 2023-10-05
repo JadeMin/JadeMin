@@ -20,10 +20,12 @@
 
 
 ## <div align="center">📖 Github Stats</div>
-<div align="center">
+<div id="github-stats" align="center">
 	<a href="#github-stats">
-		<!--img id="github-stats" align="center" src="https://github-readme-stats.vercel.app/api?username=JadeMin&_locale=kr&show_icons=true&count_private=true&hide=stars,issues,contribs&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/-->
-		<img id="github-stats" align="center" src="https://github-readme-stats.vercel.app/api?username=JadeMin&_locale=kr&show_icons=true&count_private=true&hide=issues&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadeMin&layout=compact&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+	</a>
+	<a href="#github-stats">
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=JadeMin&_locale=kr&show_icons=true&count_private=true&hide=issues&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 	</a>
 </div>  
 
