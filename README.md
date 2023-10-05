@@ -3,15 +3,9 @@
 		<img id="profile-views" src="https://komarev.com/ghpvc/?username=JadeMin&style=flat"/>
 	</a>
 </div>
+
+
 <h1 align="center">Hi! I’m JadeMin, a hobbyist full-stack developer. 👨‍💻</h1>  
-
-
-<div align="center">
-	<!--a href="https://github.com/JadeMin/">
-		<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-	</a-->
-</div>
-<br/>
 
 - 🔭 A hobbyist developer who write codes that working sometimes or not.
 - 🌱 I’m currently learning `TypeScript`, `Java`, `Go`, `C(++)`, `Rust`, and `Dart`.
@@ -19,31 +13,34 @@
 - 🤓 I seek my own very strict regularity, and scalability for my important projects.
 
 
-## <div align="center">📖 Github Stats</div>
-<div id="github-stats" align="center">
-	<a href="#github-stats">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadeMin&layout=pie&langs_count=6&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
-	</a>
-	<a href="#github-stats">
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=JadeMin&_locale=kr&show_icons=true&count_private=true&hide=issues&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
-	</a>
-</div>  
+<h2 align="center">📖 Github Stats</h2>
+<div align="center" id="github-stats">
+	<div>
+		<a href="#github-stats">
+			<img src="https://github-readme-stats.vercel.app/api?username=JadeMin&include_all_commits=true&count_private=true&hide=issues&show_icons=true&rank_icon=github&hide_border=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=30,e96443,904e95"/>
+		</a>
+	</div>
+	<div>
+		<a href="#github-stats">
+			<img src="https://github-readme-stats.vercel.app/api/wakatime?username=JadeMin&hide_border=true&title_color=fff&text_color=fff&bg_color=30,e96443,904e95"/>
+		</a>
+	</div>
+	<!--div>
+		<a href="#github-stats">
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadeMin&layout=pie&langs_count=6&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+		</a>
+	</div-->
+</div>
 
 
-## <div align="center">📌 Pinned Repositories</div>
-<div align="center">  
+<h2 align="center">📌 Pinned Repositories</h2>
+<div align="center" id="pinned-repos">
 	<a href="https://github.com/JadeMin/aternos-afkbot/">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=aternos-afkbot&theme=dark"/>
 	</a>
 	<a href="https://github.com/JadeMin/MCods/">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=MCods&theme=dark"/>
 	</a>
-	<!--a href="https://github.com/KlartNET-io/subooru/">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=KlartNET-io&repo=subooru&theme=dark"/>
-	</a-->
-	<!--a href="https://github.com/JadeMin-BetterDiscord/NitroBypass">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin-BetterDiscord&repo=NitroBypass&show_owner=false&theme=dark">
-	</a-->
 	<a href="https://github.com/JadeMin/battletrident/">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=battletrident&theme=dark"/>
 	</a>
@@ -52,6 +49,13 @@
 	</a>
 	<a href="https://github.com/JadeMin/BetterDiscordPlugins/">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=BetterDiscordPlugins&theme=dark"/>
+	</a>
+</div>
+
+<h2 align="center">📌 Pinned Gists</h2>
+<div align="center">
+	<a href="https://gist.github.com/vanyle/edbdd0c28a0150af3b905b99a4c48f00">
+		<img src="https://github-readme-stats.vercel.app/api/gist?id=edbdd0c28a0150af3b905b99a4c48f00&show_owner=true&theme=dark"/>
 	</a>
 </div>
 
