@@ -5,9 +5,9 @@
 </div>
 
 
-<h1 align="center">Hi! I’m JadeMin, a hobbyist full-stack developer. 👨‍💻</h1>  
+<h1 align="center">Hi! I’m JadeMin, a hobbyist full-stack developer. 👨‍💻</h1>
+<h3 align="center">A hobbyist developer who write codes that working sometimes or not.</h3>
 
-- 🔭 A hobbyist developer who write codes that working sometimes or not.
 - 🌱 I’m currently learning `TypeScript`, `Java`, `Go`, `C(++)`, `Rust`, and `Dart`.
 - 🛠 I like to mod something, create some useless libraries or softwares, and etc.
 - 🤓 I seek very strict regularity, and scalability for my important projects.
