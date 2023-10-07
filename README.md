@@ -26,11 +26,11 @@
 			<img id="st2" src="https://github-readme-stats.vercel.app/api/wakatime?username=JadeMin&hide_border=true&title_color=fff&text_color=fff&bg_color=30,e96443,904e95"/>
 		</a>
 	</div>
-	<div>
+	<!--div>
 		<a href="#st3">
 			<img id="st3" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadeMin&layout=normal&langs_count=20&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 		</a>
-	</div>
+	</div-->
 </div>
 
 
