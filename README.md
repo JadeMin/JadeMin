@@ -28,6 +28,11 @@
 			<img id="st3" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadeMin&layout=normal&langs_count=20&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 		</a>
 	</div>
+	<div>
+		<a href="#st4">
+			<img id="st4" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadeMin-archives&layout=normal&langs_count=20&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+		</a>
+	</div>
 </div>
 
 
