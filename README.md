@@ -1,8 +1,6 @@
-<div align="right">
-	<a href="#profile-views">
-		<img id="profile-views" src="https://komarev.com/ghpvc/?username=JadeMin&style=flat"/>
-	</a>
-</div>
+<a href="#profile-views">
+	<img align="right" id="profile-views" src="https://komarev.com/ghpvc/?username=JadeMin&style=flat"/>
+</a>
 
 
 <h1 align="center">Hi! I’m JadeMin, a hobbyist full-stack developer. 👨‍💻</h1>
@@ -14,27 +12,27 @@
 
 
 <h2 align="center">📖 Github Stats</h2>
-<div align="center" id="github-stats">
+<div align="center">
 	<div>
-		<a href="#github-stats">
-			<img src="https://github-readme-stats.vercel.app/api?username=JadeMin&include_all_commits=true&count_private=true&hide=issues&show_icons=true&rank_icon=github&hide_border=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=30,e96443,904e95"/>
+		<a href="#st1">
+			<img id="st1" src="https://github-readme-stats.vercel.app/api?username=JadeMin&include_all_commits=true&count_private=true&hide=issues&show_icons=true&rank_icon=github&hide_border=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=30,e96443,904e95"/>
 		</a>
 	</div>
 	<div>
-		<a href="#github-stats">
-			<img src="https://github-readme-stats.vercel.app/api/wakatime?username=JadeMin&hide_border=true&title_color=fff&text_color=fff&bg_color=30,e96443,904e95"/>
+		<a href="#st2">
+			<img id="st2" src="https://github-readme-stats.vercel.app/api/wakatime?username=JadeMin&hide_border=true&title_color=fff&text_color=fff&bg_color=30,e96443,904e95"/>
 		</a>
 	</div>
 	<div>
-		<a href="#github-stats">
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadeMin&layout=normal&langs_count=20&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+		<a href="#st3">
+			<img id="st3" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadeMin&layout=normal&langs_count=20&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 		</a>
 	</div>
 </div>
 
 
 <h2 align="center">📌 Pinned Repositories</h2>
-<div align="center" id="pinned-repos">
+<div align="center">
 	<a href="https://github.com/JadeMin/aternos-afkbot/">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=aternos-afkbot&theme=dark"/>
 	</a>
