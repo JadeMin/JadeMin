@@ -3,12 +3,15 @@
 </a>
 
 
-<h1 align="center">Hi! I’m JadeMin, a hobbyist full-stack developer. 👨‍💻</h1>
-<h3 align="center">A hobbyist developer who write codes that working sometimes or not.</h3>
-
-- 🌱 I’m currently learning `TypeScript`, `Java`, `Go`, `C(++)`, `Rust`, and `Dart`.
-- 🛠 I like to mod something, create some useless libraries or softwares, and etc.
-- 🤓 I seek very strict regularity, and scalability for my important projects.
+<div align="center">
+	<h1>Hi! I’m JadeMin, a hobbyist full-stack developer. 👨‍💻</h1>
+	<h3>A hobbyist developer who write codes that working sometimes or not.</h3>
+	<ul>
+		<li>🌱 I’m currently learning <code>TypeScript</code>, <code>Java</code>, <code>Go</code>, <code>C(++)</code>, <code>Rust</code>, and <code>Dart</code>.</li>
+		<li>🛠 I like to mod something, create some useless libraries or softwares, and etc.</li>
+		<li>🤓 I seek very strict regularity, and scalability for my important projects.</li>
+	</ul>
+</div>
 
 
 <h2 align="center">📖 Github Stats</h2>
