@@ -37,8 +37,11 @@
 			<a href="https://github.com/JadeMin/aternos-afkbot/">
 				<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=aternos-afkbot&theme=dark"/>
 			</a>
+			<a href="https://github.com/JadeMin/chdad/">
+				<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=chdad&theme=dark"/>
+			</a>
 			<a href="https://github.com/JadeMin/mcods/">
-				<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=MCods&theme=dark"/>
+				<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=mcods&theme=dark"/>
 			</a>
 			<a href="https://github.com/JadeMin/battletrident/">
 				<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=battletrident&theme=dark"/>
