@@ -34,22 +34,22 @@
 	<div>
 		<h2 align="center">📌 Pinned Repositories</h2>
 		<div align="center">
-			<a href="https://github.com/JadeMin/aternos-afkbot/">
-				<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=aternos-afkbot&theme=dark"/>
+			<a href="./aterbot">
+				<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=aterbot&theme=dark"/>
 			</a>
-			<a href="https://github.com/JadeMin/chdad/">
+			<a href="./chdad">
 				<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=chdad&theme=dark"/>
 			</a>
-			<a href="https://github.com/JadeMin/mcods/">
+			<a href="./mcods">
 				<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=mcods&theme=dark"/>
 			</a>
-			<a href="https://github.com/JadeMin/battletrident/">
+			<a href="./battletrident">
 				<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=battletrident&theme=dark"/>
 			</a>
-			<a href="https://github.com/JadeMin/battletrident-datapack/">
+			<a href="./battletrident-datapack">
 				<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=battletrident-datapack&theme=dark"/>
 			</a>
-			<a href="https://github.com/JadeMin/BetterDiscordPlugins/">
+			<a href="./BetterDiscordPlugins">
 				<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=BetterDiscordPlugins&theme=dark"/>
 			</a>
 		</div>
