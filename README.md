@@ -43,11 +43,11 @@
 			<a href="https://github.com/JadeMin/mcods/">
 				<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=mcods&theme=dark"/>
 			</a>
-			<a href="https://github.com/JadeMin/battletrident/">
-				<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=battletrident&theme=dark"/>
+			<a href="https://github.com/JadeMin-Minecraft/battletrident/">
+				<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin-Minecraft&repo=battletrident&theme=dark"/>
 			</a>
-			<a href="https://github.com/JadeMin/battletrident-datapack/">
-				<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=battletrident-datapack&theme=dark"/>
+			<a href="https://github.com/JadeMin-Minecraft/battletrident-datapack/">
+				<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin-Minecraft&repo=battletrident-datapack&theme=dark"/>
 			</a>
 			<a href="https://github.com/JadeMin/BetterDiscordPlugins/">
 				<img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeMin&repo=BetterDiscordPlugins&theme=dark"/>
