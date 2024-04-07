@@ -5,8 +5,8 @@
 
 <div align="center">
 	<div>
-		<h1>Hello, JadeMin! 👨‍💻</h1>
-		<h3>A hobbyist developer who write codes that working sometimes or not.</h3>
+		<h1>Hello, JadeMin! ✨</h1>
+		<h3>A hobbyist developer who writes code that working sometimes or not. 👨‍💻</h3>
 		<ul align="left">
 			<li>🌱 I’m currently learning <code>TypeScript</code>, <code>Java/Kotlin</code>, <code>Go</code>, <code>C/++/#</code>, <code>Rust</code>, and <code>Dart</code>.</li>
 			<li>🤓 I like to mod something, create some useless libraries or softwares.</li>
