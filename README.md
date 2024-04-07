@@ -10,7 +10,7 @@
 		<ul align="left">
 			<li>🌱 I’m currently learning <code>TypeScript</code>, <code>Java/Kotlin</code>, <code>Go</code>, <code>C/++/#</code>, <code>Rust</code>, and <code>Dart</code>.</li>
 			<li>🤓 I like to mod something, make some useless libraries or softwares.</li>
-			<li>🛠 I seek very strict regularity, and scalability for my important projects.</li>
+			<li>🛠 I seek very strict regularity / scalability for the important projects.</li>
 		</ul>
 	</div>
 	<div>
