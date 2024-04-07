@@ -8,7 +8,7 @@
 		<h1>Hi! I’m JadeMin, a hobbyist developer. 👨‍💻</h1>
 		<h3>A hobbyist developer who write codes that working sometimes or not.</h3>
 		<ul align="left">
-			<li>🌱 I’m currently learning <code>TypeScript</code>, <code>Java</code>, <code>Go</code>, <code>C/C++/C#</code>, <code>Rust</code>, and <code>Dart</code>.</li>
+			<li>🌱 I’m currently learning <code>TypeScript</code>, <code>Java/Kotlin</code>, <code>Go</code>, <code>C/++/#</code>, <code>Rust</code>, and <code>Dart</code>.</li>
 			<li>🤓 I like to mod something, create some useless libraries or softwares.</li>
 			<li>🛠 I seek very strict regularity, and scalability for my important projects.</li>
 		</ul>
