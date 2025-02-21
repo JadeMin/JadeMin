@@ -6,11 +6,11 @@
 <div align="center">
 	<div>
 		<h1>Hello, JadeMin! ✨</h1>
-		<h3>A hobbyist developer who writes code that working sometimes or not. 👨‍💻</h3>
+		<h3>A hobbyist developer who writes code that works sometimes or not. 👨‍💻</h3>
 		<ul align="left">
 			<li>🌱 I’m currently learning <code>TypeScript</code>, <code>Java/Kotlin</code>, <code>Go</code>, <code>C/++/#</code>, <code>Rust</code>, and <code>Dart</code>.</li>
-			<li>🤓 I like to mod something, make some useless libraries or softwares.</li>
-			<li>🛠 I seek very strict regularity / scalability for the important projects.</li>
+			<li>🤓 I like to mod things, make some useless libraries or software.</li>
+			<li>🛠 I maintain strict regularity and abstraction in important projects.</li>
 		</ul>
 	</div>
 	<div>
